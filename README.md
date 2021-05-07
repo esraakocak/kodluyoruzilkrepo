@@ -16,7 +16,7 @@ Projeyi clonladıktan sonra Visual Studio code programını açtım .
  
 #Photo of the project
 
-![image](./img/project.jpg)
+![image](./img/project2.jpg)
 
 
 
